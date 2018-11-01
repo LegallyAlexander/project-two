@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    background: url("assets/fabric_plaid.png") repeat center center fixed;
+    background: url("background textures/fabric_plaid.png") repeat;
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
@@ -15,6 +15,7 @@ body {
 }
 
 footer {
+    background: url()
 }
 
 a {
